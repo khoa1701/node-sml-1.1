@@ -1,0 +1,14 @@
+{
+  "name": "node-sml",
+  "version": "0.0.1",
+  "description": "du an node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ngoc Khoa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
